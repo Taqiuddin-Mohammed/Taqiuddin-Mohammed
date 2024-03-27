@@ -1,4 +1,5 @@
-<p align="center"> <img src="img-gif/hello.gif "/> </p>
+
+<p align="center"><img alt ="hello" src="img-gif/hello.gif"></p>
 <h1 align="center">Hi 👋, I'm Taqiuddin Mohammed</h1>
 <h3 align="center">Building Tomorrow's Solutions with Java Excellence</h3>
 <img align = "right" alt ="coding" width ="400" src="img-gif/main.gif">
